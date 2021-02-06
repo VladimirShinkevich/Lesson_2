@@ -1,6 +1,6 @@
 num1 = 0
 num2 = 1
-fibonachi = Array.new
+fibonachi = []
 while num1 < 100
   fibonachi << num1
   num3 = num1 + num2
